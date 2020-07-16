@@ -35,14 +35,14 @@ navigation:
   - name: 首页
     url: /
   - name: 关于
-    url: /about
+    url: https://kanransya.github.io/nami-jetcoaster/about
   - name: 归档
-    url: /archive
+    url: https://kanransya.github.io/nami-jetcoaster/archive
   - name: 标签
-    url: /tags
+    url: https://kanransya.github.io/nami-jetcoaster/tags
 
 # 每页的文章数
-paginate: 8
+paginate: 9
 
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
@@ -73,7 +73,7 @@ footer-text: Copyright (c) 2020 回汐
 #
 
 # 输入Disqus shortname，即可添加评论区
-disqus: loffer #shortname
+disqus: #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
