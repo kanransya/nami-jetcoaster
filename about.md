@@ -1,7 +1,10 @@
 ---
 layout: page
-title: 关于
+title: ABOUT
 permalink: /about/
 ---
 
-这是一个关于页面，请编辑about.md以介绍你的博客。
+自留地
+陸續搬運ROC相關資料/同人
+別的也有
+LOF：回汐 allin-1.lofter.com
