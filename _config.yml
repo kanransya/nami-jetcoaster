@@ -76,11 +76,19 @@ footer-text: Copyright (c) 2020 回汐
 disqus: #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-gitalk:
+gitalk: #
   clientID: 
   clientSecret: 
   repo: 
   owner: 
+
+<script src="https://utteranc.es/client.js"
+        repo="[kanransya/nami-jetcoaster]"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 # 输入Google Analytics web tracking code
 google_analytics:
