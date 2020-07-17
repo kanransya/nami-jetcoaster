@@ -32,8 +32,6 @@ favicon: https://raw.githubusercontent.com/kanransya/nami-jetcoaster/master/imag
 
 # 菜单中的按钮
 navigation:
-  - name: 首页
-    url: /
   - name: 关于
     url: https://kanransya.github.io/nami-jetcoaster/about
   - name: 归档
@@ -76,19 +74,11 @@ footer-text: Copyright (c) 2020 回汐
 disqus: #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-gitalk: #
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
-
-<script src="https://utteranc.es/client.js"
-        repo="[kanransya/nami-jetcoaster]"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+gitalk: 
+  clientID: 971f9caade4aea264890
+  clientSecret: 25ad7601014bbb4f187f1631465ea8d93d8994b5
+  repo: nami-jetcoaster
+  owner: kanransya
 
 # 输入Google Analytics web tracking code
 google_analytics:
