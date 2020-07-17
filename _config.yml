@@ -32,11 +32,11 @@ favicon: https://raw.githubusercontent.com/kanransya/nami-jetcoaster/master/imag
 
 # 菜单中的按钮
 navigation:
-  - name: 关于
+  - name: ABOUT
     url: https://kanransya.github.io/nami-jetcoaster/about
-  - name: 归档
+  - name: ARCHIVE
     url: https://kanransya.github.io/nami-jetcoaster/archive
-  - name: 标签
+  - name: TAGS
     url: https://kanransya.github.io/nami-jetcoaster/tags
 
 # 每页的文章数
