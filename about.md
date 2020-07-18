@@ -10,4 +10,4 @@ permalink: /about/
 
 別的也會有
 
-LOF：回汐 allin-1.lofter.com
+LOF：汐回 allin-1.lofter.com
