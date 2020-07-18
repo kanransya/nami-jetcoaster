@@ -2,16 +2,17 @@
 layout: post
 title: 德味彩虹屁欣赏
 date: 2019-11-04 18:27:44
-tags: [汪季新,汪兆銘,蔣志清,蔣汪,民國同人,歷史同人]
+tags: [汪兆銘,蔣中正,ROC資料,個人漢化]
 
 ---
+
 嗯，我又发现一个被蛊的
 
 来源：H·シュネー 著，金森誠也 譯：《「満州国」見聞記》，講談社学術文庫，2002年，第68-74頁。
 
 作者是国联派出的李顿调查团中的德国委员Heinrich Schnee博士，原书1933年写成，德语我无能为力
 
-目前没有中译本，以下译自2002年的日译本，为避pb有一些打码处理意会就行了
+目前没有中译本，以下译自2002年的日译本
 
 1932年3月26日，李顿调查团到达南京，在三日间与汪蒋等人进行面谈  
 
@@ -23,15 +24,15 @@ tags: [汪季新,汪兆銘,蔣志清,蔣汪,民國同人,歷史同人]
 
 一看后面还写了老常，啊！顺便把老常的也翻了
 
-> 与汪院长进行了一小时会晤之后，我们访问了中国lujun总司令、js委员会委员长蒋介石元帅。走出南京城门，登上明孝陵附近的一座小山丘，顶上有一座高大的建筑和小小的住宅。大的建筑是官署，小的两层住宅里住着蒋介石与宋美龄夫妇。我们从玄关被带到了宽敞但有着低矮天花板的房间。这是会客室。因为没有前室，只好把外套搭在椅子上。
+> 与汪院长进行了一小时会晤之后，我们访问了中国陆军总司令、军事委员会委员长蒋介石元帅。走出南京城门，登上明孝陵附近的一座小山丘，顶上有一座高大的建筑和小小的住宅。大的建筑是官署，小的两层住宅里住着蒋介石与宋美龄夫妇。我们从玄关被带到了宽敞但有着低矮天花板的房间。这是会客室。因为没有前室，只好把外套搭在椅子上。
 > 
-> 蒋元帅是与夫人一同出现的。他中等身材，非常年轻。头部稍小，面上富有光泽，鼻梁笔直，一双褐色的眼睛并非东方人特有的细长形，而是大而明亮，充满活力。下颚轮廓分明，但也没有极度发达。厚厚的下唇有几分向前突出，让人感到元帅的面貌充满了英勇奋斗的精神。他只穿着带点褐色的绿色朴素军服，并未佩戴任何表示位阶勋等的肩章。军服上的茶色纽扣也没有体现lu军的威严。如果要说有什么带着强烈装饰色彩的东西，也只有从上衣口袋里露出头来的金色钢笔了。他脚上穿的也是西式的短靴，绝没有军人的气息。
+> 蒋元帅是与夫人一同出现的。他中等身材，非常年轻。头部稍小，面上富有光泽，鼻梁笔直，一双褐色的眼睛并非东方人特有的细长形，而是大而明亮，充满活力。下颚轮廓分明，但也没有极度发达。厚厚的下唇有几分向前突出，让人感到元帅的面貌充满了英勇奋斗的精神。他只穿着带点褐色的绿色朴素军服，并未佩戴任何表示位阶勋等的肩章。军服上的茶色纽扣也没有体现陆军的威严。如果要说有什么带着强烈装饰色彩的东西，也只有从上衣口袋里露出头来的金色钢笔了。他脚上穿的也是西式的短靴，绝没有军人的气息。
 
 別问，问就是攻受立判🙃
 
 原文贴一下，翻译有什么错误请告诉我！
 
-![图片](./img/YnZvamxBaTlBYW91UTQ3OTN0YTlYUVp1U1dPYXlNK2ZpeVJacWVCQ0lSaGtsQkQ0OGlyN29BPT0.jpg?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
-![](http://imglf4.nosdn.127.net/img/YnZvamxBaTlBYW91UTQ3OTN0YTlYWnRwUlNTaDRZcEw3ZEF2ZmNSNmVzcm1SYWpDaXo2T093PT0.jpg?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
-![](http://imglf6.nosdn.127.net/img/YnZvamxBaTlBYW91UTQ3OTN0YTlYU1FqK3M2djRyOXRyc2J1aGVXWlFoMkJBTDQ3RitzaEFBPT0.jpg?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
-![](http://imglf3.nosdn.127.net/img/YnZvamxBaTlBYW91UTQ3OTN0YTlYU2NaUzBoWUFPTFpNc2JQbVBVQytWZGdYeUh5ZGdZZHZBPT0.jpg?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)
+![01](https://imglf5.nosdn.127.net/img/YnZvamxBaTlBYW91UTQ3OTN0YTlYUVp1U1dPYXlNK2ZpeVJacWVCQ0lSaGtsQkQ0OGlyN29BPT0.jpg)  
+![02](http://imglf4.nosdn.127.net/img/YnZvamxBaTlBYW91UTQ3OTN0YTlYWnRwUlNTaDRZcEw3ZEF2ZmNSNmVzcm1SYWpDaXo2T093PT0.jpg)  
+![03](http://imglf6.nosdn.127.net/img/YnZvamxBaTlBYW91UTQ3OTN0YTlYU1FqK3M2djRyOXRyc2J1aGVXWlFoMkJBTDQ3RitzaEFBPT0.jpg)  
+![04](http://imglf3.nosdn.127.net/img/YnZvamxBaTlBYW91UTQ3OTN0YTlYU2NaUzBoWUFPTFpNc2JQbVBVQytWZGdYeUh5ZGdZZHZBPT0.jpg)
