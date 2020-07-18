@@ -38,9 +38,8 @@ navigation:
   - name: 標籤
     url: https://kanransya.github.io/nami-jetcoaster/tags
 
-
 # 每页的文章数
-paginate: 5
+paginate: 8
 
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
