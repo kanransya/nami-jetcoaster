@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 挽联
-date: 2020-06-12 12:41:54
+date: 1944-11-20 12:41:54
 author: 華北政務委員會總務廳情報局
 tags: [汪兆銘,ROC資料]
 comments: true
