@@ -122,7 +122,7 @@ Author: 黑川利雄
 
 汪夫人流着泪说：
 
-#" I told you always lie, your legs will move soon. But now I will tell you the truth, your legs will never move again."#
+" I told you always lie, your legs will move soon. But now I will tell you the truth, your legs will never move again."
 
  （本句原文即英文）
 
