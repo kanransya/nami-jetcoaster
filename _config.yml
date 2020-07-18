@@ -32,6 +32,8 @@ favicon: https://i.loli.net/2020/07/18/uYjPfryITO82sLg.png
 
 # 菜单中的按钮
 navigation:
+  - name: 首页
+    url: /
   - name: 關於
     url: https://kanransya.github.io/nami-jetcoaster/about
   - name: 歸檔
