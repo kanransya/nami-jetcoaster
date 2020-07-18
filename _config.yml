@@ -11,7 +11,7 @@ name: 回汐
 description: 天心終見重輪月
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: https://kanransya.github.io/nami-jetcoaster
+url: https://kanransya.github.io
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
@@ -24,10 +24,10 @@ baseurl: /nami-jetcoaster
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/kanransya/nami-jetcoaster/master/images/300x113%E5%85%89%E7%82%B9.png
+avatar: https://i.loli.net/2020/07/18/Qd8IVBSMoJYnALZ.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/kanransya/nami-jetcoaster/master/images/64x64%E7%BA%BF%E6%9D%A1%E6%A2%85%E8%8A%B1.png
+favicon: https://i.loli.net/2020/07/18/uYjPfryITO82sLg.png
 
 # 菜单中的按钮
 navigation:
