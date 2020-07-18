@@ -2,7 +2,8 @@
 layout: post
 title: 1935的追星文学和2019的追星文学我反正没看出什么区别
 date: 2019-12-09 23:22:15
-tags: [汪兆銘,汪季新,民國同人,歷史同人]
+author: 漢子
+tags: [汪兆銘,民國資料]
 
 ---
 说明彩虹屁这一文体的发展具有较强稳定性
@@ -11,11 +12,11 @@ tags: [汪兆銘,汪季新,民國同人,歷史同人]
 
 想尝尝蛊术的滋味吗
 
-![图片](./img/YnZvamxBaTlBYW9IQUcyL2Frd29FbnAvd1ZaQzhNM3R2SkwxSmdrMkEyV3VKSFBoWFRYQ0tBPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)
+![蠱得不輕](https://imglf6.nosdn.127.net/img/YnZvamxBaTlBYW9IQUcyL2Frd29FbnAvd1ZaQzhNM3R2SkwxSmdrMkEyV3VKSFBoWFRYQ0tBPT0.png)
 
 > “……那样，汪先生便给予了我一个很鲜明的轮廓，**正像我很难忘怀笼罩在初秋的青色的薄雾里的一枝芙蓉花似的。”**
 > 
-> “……每次站在汪先生面前，老是那样**微蹙着的眉尖**，压着下面的一对**明朗的，活泼的，****水样忧郁的眼珠**，在里面是充分地刻画着**聪明，温柔，热情，和感伤**。使每个站在他面前的人，自然地发生出**尊崇与怜惜**。”
+> “……每次站在汪先生面前，老是那样**微蹙着的眉尖**，压着下面的一对**明朗的，活泼的，水样忧郁的眼珠**，在里面是充分地刻画着**聪明，温柔，热情，和感伤**。使每个站在他面前的人，自然地发生出**尊崇与怜惜**。”
 > 
 > “他最近虽则时常拒见新闻记者，然而一般新闻记者却全责备曾仲鸣的“官僚”架子，——甚至他的门房——**但决不会有人把这四个字投向他的身上去**。”  【……背锅侠仲鸣真的辛苦了
 > 
@@ -27,7 +28,7 @@ tags: [汪兆銘,汪季新,民國同人,歷史同人]
 
 整版pdf自取：
 
-链接: https://pan.baidu.com/s/12DuJI25asqkqMoWCJGqu2g 提取码: 42dr
+链接: <https://pan.baidu.com/s/12DuJI25asqkqMoWCJGqu2g> 提取码: 42dr
 
 小报，我的快乐喷泉
 
