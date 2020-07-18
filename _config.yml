@@ -24,7 +24,7 @@ baseurl: /nami-jetcoaster
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/kanransya/nami-jetcoaster/master/images/250x144%E5%85%89%E7%82%B9.png
+avatar: https://raw.githubusercontent.com/kanransya/nami-jetcoaster/master/images/300x113%E5%85%89%E7%82%B9.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/kanransya/nami-jetcoaster/master/images/64x64%E7%BA%BF%E6%9D%A1%E6%A2%85%E8%8A%B1.png
@@ -37,6 +37,7 @@ navigation:
     url: https://kanransya.github.io/nami-jetcoaster/archive
   - name: 標籤
     url: https://kanransya.github.io/nami-jetcoaster/tags
+
 
 # 每页的文章数
 paginate: 9
