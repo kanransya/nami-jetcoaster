@@ -40,7 +40,7 @@ navigation:
 
 
 # 每页的文章数
-paginate: 9
+paginate: 20
 
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
