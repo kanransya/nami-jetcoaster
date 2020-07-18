@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【蔣汪】One Night in Kwong Chow
+title: 【蔣汪】廣州一夜
 date: 2020-03-11 23:42:08
 tags: [蔣汪,汪兆銘,蔣中正,ROC同人]
 
@@ -11,9 +11,9 @@ tags: [蔣汪,汪兆銘,蔣中正,ROC同人]
 > 
 > **預警：包括不限於 raaaaape/道具/暴力描寫/非1v1背景**  
 > 
-> notion（不用翻）：[點這裡](https://www.notion.so/One-Night-in-Kwong-Chow-18327e7ebb7f4f3cab02d7e373f1e3ed)
+> notion（不用翻墻）：[點這裡](https://www.notion.so/One-Night-in-Kwong-Chow-18327e7ebb7f4f3cab02d7e373f1e3ed)
 > 
-> 嗷3：[點這裡](https://archiveofourown.org/works/23107045)
+> ao3：[點這裡](https://archiveofourown.org/works/23107045)
 > 
 > **聲明：文中所有角色除了同名同姓以外與真實歷史人物沒有任何關係，是我腦內三俗平行時空的三俗故事  
 > **
