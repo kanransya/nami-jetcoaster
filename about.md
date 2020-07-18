@@ -10,9 +10,9 @@ permalink: /about/
 
 別的也會有
 
-LOF：汐回 allin-1.lofter.com
+LOF: 汐回 allin-1.lofter.com
 
-Weibo:Nangijala
+Weibo: Nangijala
 
 
 id正着叫反着叫都可以
