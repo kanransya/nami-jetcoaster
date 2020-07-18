@@ -6,7 +6,7 @@ author: 回汐
 tags: [汪兆銘,陳璧君,雙照樓,ROC資料]
 
 ---
-![汪陳曾醒合影](https://imglf5.nosdn.127.net/img/YnZvamxBaTlBYW80L1ZaK2V6czhyZEVoYWhEYkxTT0NaRkVKSURValBGV2VVSlRPc21oS1NnPT0.png)  
+![汪陳曾醒合影](https://i.loli.net/2020/07/19/5r6G1bYNSP4Ig8p.jpg)  
 
 革命友情长什么样？
 
