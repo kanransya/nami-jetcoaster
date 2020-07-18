@@ -2,7 +2,8 @@
 layout: post
 title: 今天发个胡汪营业
 date: 2019-12-16 16:47:40
-tags: [汪季新,汪兆銘,胡展堂,胡漢民,胡汪,民國同人,歷史同人]
+author: 耳食
+tags: [汪兆銘,胡漢民,ROC資料]
 
 ---
 啾~  
@@ -11,8 +12,8 @@ tags: [汪季新,汪兆銘,胡展堂,胡漢民,胡汪,民國同人,歷史同人]
 
 糖即是刀刀即是糖！
 
-![图片](./img/YnZvamxBaTlBYXFIc3orYUxIeW9HcU5ZZllyQVhPZHVESzBHeW8xOUVFOWZZbktDK1FraGd3PT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
-![](http://imglf3.nosdn.127.net/img/YnZvamxBaTlBYXFIc3orYUxIeW9HdHNsNEdPYWJ2N3NIU3Q1cmprMldvRm1uRXY2NWMwejhBPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![01](https://imglf5.nosdn.127.net/img/YnZvamxBaTlBYXFIc3orYUxIeW9HcU5ZZllyQVhPZHVESzBHeW8xOUVFOWZZbktDK1FraGd3PT0.png)  
+![02](http://imglf3.nosdn.127.net/img/YnZvamxBaTlBYXFIc3orYUxIeW9HdHNsNEdPYWJ2N3NIU3Q1cmprMldvRm1uRXY2NWMwejhBPT0.png)  
 
 > 汪精卫人皆知其为汪兆铭也，过去拆字先生，将汪字拆为两半，名之曰三王先生，固已家喻而户晓矣，而不知党国元老中，尚有名之曰“小鸟儿”与“不倒翁”者，此说谅未广播，兹不揣愚昧，愿为作义务宣传，以告读者。
 > 
