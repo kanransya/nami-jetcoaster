@@ -2,7 +2,7 @@
 layout: post
 title: 《正月的回憶》
 date: 2020-01-25 03:51:03
-Author: 汪兆銘
+author: 汪兆銘
 categories: ROC
 tags: [汪兆銘,ROC資料]
 
