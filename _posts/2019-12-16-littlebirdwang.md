@@ -12,8 +12,8 @@ tags: [汪兆銘,胡漢民,ROC資料]
 
 糖即是刀刀即是糖！
 
-![01](https://imglf5.nosdn.127.net/img/YnZvamxBaTlBYXFIc3orYUxIeW9HcU5ZZllyQVhPZHVESzBHeW8xOUVFOWZZbktDK1FraGd3PT0.png)  
-![02](http://imglf3.nosdn.127.net/img/YnZvamxBaTlBYXFIc3orYUxIeW9HdHNsNEdPYWJ2N3NIU3Q1cmprMldvRm1uRXY2NWMwejhBPT0.png)  
+![小鳥兒01](https://i.loli.net/2020/07/19/DdBkYiTy4lwxs5F.png)  
+![小鳥兒02](https://i.loli.net/2020/07/19/6RZIwXNtPdzDTGE.png)  
 
 > 汪精卫人皆知其为汪兆铭也，过去拆字先生，将汪字拆为两半，名之曰三王先生，固已家喻而户晓矣，而不知党国元老中，尚有名之曰“小鸟儿”与“不倒翁”者，此说谅未广播，兹不揣愚昧，愿为作义务宣传，以告读者。
 > 
