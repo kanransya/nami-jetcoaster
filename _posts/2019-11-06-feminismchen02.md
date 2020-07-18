@@ -2,18 +2,19 @@
 layout: post
 title: 继续讲讲陈女士实绩
 date: 2019-11-06 20:03:52
-tags: [陳璧君,陳冰如,女權]
+author: 李峙山
+tags: [陳璧君,ROC資料,打拳指南]
 
 ---
 再敬女界诸先贤  
 
-接着昨天讲厚~ [陈女士slay事迹一例](http://allin-1.lofter.com/post/1e948a0d_1c6f7f6ec)  
+接着昨天讲厚~ [陈女士slay事迹一例](https://kanransya.github.io/nami-jetcoaster/feminismchen01/)  
 
 战后出版的这本↑《婦運四十年》作者谈社英，曾是婦女共鳴社创建者，也是《婦女共鳴》的主编。这个杂志1929年3月创刊，是当时国统区域内传播妇运力争女权的唯一刊物。关于陈女士这件事其实当时就有记载。且第二年还有后续。
 
 《婦女共鳴》第三卷第十一期登载署名“珊”与“毅”的两篇短文《陈璧君起作中流砥柱》、《王士杰大碰钉子》，讲的就是1934年女界力争修改刑法“通奸罪”的运动。
 
-珊、毅其实都是李峙山的笔名（参看http://mhdb.mh.sinica.edu.tw/ACWP/），李峙山亦为婦女共鳴社创办者和《婦女共鳴》的主编。
+珊、毅其实都是李峙山的笔名（参看<http://mhdb.mh.sinica.edu.tw/ACWP/> ，李峙山亦为婦女共鳴社创办者和《婦女共鳴》的主编。)
 
 1935年，李峙山又于该刊登载一篇《陈璧君氏再作中流砥柱》。
 
@@ -53,11 +54,11 @@ tags: [陳璧君,陳冰如,女權]
 
 参考：
 
-抗战文献数据平台[http://www.modernhistory.org.cn/index.htm](http://www.modernhistory.org.cn/index.htm)
+[抗战文献数据平台](http://www.modernhistory.org.cn/index.htm)
 
-婦女期刊作者研究平台[http://mhdb.mh.sinica.edu.tw/ACWP/index.php](http://mhdb.mh.sinica.edu.tw/ACWP/index.php)
+[婦女期刊作者研究平台](http://mhdb.mh.sinica.edu.tw/ACWP/index.php)
 
-http://www.2499cn.com/minguo/guomindang.htm
+<http://www.2499cn.com/minguo/guomindang.htm>
 
 关志钢：《国民党“中政会”述评》
 
