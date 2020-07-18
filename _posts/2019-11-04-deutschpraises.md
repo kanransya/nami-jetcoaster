@@ -33,7 +33,7 @@ tags: [汪兆銘,蔣中正,ROC資料,個人漢化]
 
 原文贴一下，翻译有什么错误请告诉我！
 
-![01](https://imglf5.nosdn.127.net/img/YnZvamxBaTlBYW91UTQ3OTN0YTlYUVp1U1dPYXlNK2ZpeVJacWVCQ0lSaGtsQkQ0OGlyN29BPT0.jpg)  
+![01](https://i.loli.net/2020/07/19/ag69osBO87htuik.jpg)  
 ![02](http://imglf4.nosdn.127.net/img/YnZvamxBaTlBYW91UTQ3OTN0YTlYWnRwUlNTaDRZcEw3ZEF2ZmNSNmVzcm1SYWpDaXo2T093PT0.jpg)  
 ![03](http://imglf6.nosdn.127.net/img/YnZvamxBaTlBYW91UTQ3OTN0YTlYU1FqK3M2djRyOXRyc2J1aGVXWlFoMkJBTDQ3RitzaEFBPT0.jpg)  
 ![04](http://imglf3.nosdn.127.net/img/YnZvamxBaTlBYW91UTQ3OTN0YTlYU2NaUzBoWUFPTFpNc2JQbVBVQytWZGdYeUh5ZGdZZHZBPT0.jpg)
