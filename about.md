@@ -10,9 +10,11 @@ permalink: /about/
 
 別的也會有
 
-LOF: 汐回 allin-1.lofter.com
+[AO3](https://archiveofourown.org/users/KurikaesuShio "KurikaesuShio")
 
-Weibo: Nangijala
+[LOFTER](https://allin-1.lofter.com "汐回")
+
+Weibo: @Nangijala
 
 
 id正着叫反着叫都可以
