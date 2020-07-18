@@ -6,6 +6,8 @@ permalink: /about/
 
 自留地
 
+。
+
 [AO3](https://archiveofourown.org/users/KurikaesuShio "KurikaesuShio")
 
 [LOFTER](https://allin-1.lofter.com "汐回")
