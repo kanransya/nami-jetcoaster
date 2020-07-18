@@ -2,14 +2,16 @@
 layout: post
 title: 【蔣汪】廣州一夜
 date: 2020-03-11 23:42:08
+author: 回汐
 tags: [蔣汪,汪兆銘,蔣中正,ROC同人]
+comments: true
 
 ---
 
 
 > 注水pwp，abo，背景是中山艦事件
 > 
-> **預警：包括不限於 raaaaape/道具/暴力描寫/非1v1背景**  
+> **預警：包括不限於 rape/道具/暴力描寫/非1v1背景**  
 > 
 > notion（不用翻墻）：[點這裡](https://www.notion.so/One-Night-in-Kwong-Chow-18327e7ebb7f4f3cab02d7e373f1e3ed)
 > 
