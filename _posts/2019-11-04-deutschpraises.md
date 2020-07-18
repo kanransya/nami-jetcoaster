@@ -2,6 +2,7 @@
 layout: post
 title: 德味彩虹屁欣赏
 date: 2019-11-04 18:27:44
+author: Heinrich Schnee, 金森誠也, 回汐
 tags: [汪兆銘,蔣中正,ROC資料,個人漢化]
 
 ---
