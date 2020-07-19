@@ -2,7 +2,7 @@
 layout: post
 title: 
 date: 2019-10-26 01:38:41
-tags: [汪季新,汪兆銘,吳稚暉]
+tags: [汪兆銘,吳稚暉]
 
 ---
 來源:《吳稚暉全集》第七卷，九州出版社，2013年， P516-524。
@@ -21,7 +21,7 @@ tags: [汪季新,汪兆銘,吳稚暉]
 
 哭唧唧  
 
-P.s.這段廣播演講的錄音：http://t.cn/RVNgpI1?m=4033269026226490&u=5623555897
+P.s.這段廣播演講的錄音： <video src="https://github.com/kanransya/nami-jetcoaster/raw/master/videos/%E5%B9%BF%E5%B7%9E%E5%B9%BF%E6%92%AD%E5%BD%95%E9%9F%B3.mp4" width="800px" height="600px" controls="controls"></video>
 
 1:12開始 粵語真好聽 我又被蠱了（
 
