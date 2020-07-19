@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【蔣汪】廣州一夜
+title: 【蔣汪】One Night in Kwong Chow
 date: 1926-03-20 23:42:08
 author: 回汐
 tags: [填海補天,ROC同人]
