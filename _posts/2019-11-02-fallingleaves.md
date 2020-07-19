@@ -18,4 +18,4 @@ tags: [信仰充值]
 > （末句收入《掃葉集》改作「儘歲暮天寒，冰霜追逐千萬程。」）
 
 
-![落葉詞](https://imglf4.nosdn0.126.net/img/YnZvamxBaTlBYXFreXU0cWZKVldEYThWeERmaHFJNDUyRG5lcFdFYnUvNWZrYjZkRjhieFBRPT0.jpg)
+![落葉詞](https://i.loli.net/2020/07/19/37YOnQfepDNhUT8.jpg)
