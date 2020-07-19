@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 
-date: 2020-03-12 14:52:01
-tags: [汪兆銘,汪季新,孫逸仙]
+title: 植樹節
+date: 1935-03-12 14:52:01
+author: 汪兆銘
+tags: [汪兆銘,ROC資料]
 
 ---
 只行乎心之所安，盡其力之所能及，至於成敗利鈍，在所不計。  
@@ -22,16 +23,16 @@ tags: [汪兆銘,汪季新,孫逸仙]
 > 我們人類對於一切的工作，皆當存此觀念。對於植樹如此，對於國家社會一切貢獻，皆是如此。
 
 
-![图片](./img/YnZvamxBaTlBYXJBdVh0LzFZRFc5NVFOVFJqQW5OSUs3NFFUTkdjT1U5Uko0bWJ1YmNkUFNBPT0.jpg)
+![植树01](https://i.loli.net/2020/07/19/JLD4p235mqjgHvA.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJBdVh0LzFZRFc5M2NJdXdYNzNSZWR5NFJRejdWanZLTVJkdFU5MThFdlFBPT0.jpg)
+![植树02](https://i.loli.net/2020/07/19/XRLo79zDUg3rmFI.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJBdVh0LzFZRFc5OHVxeDlacXExZEpHTnpmNy82VXlxWGFpU2V0NUxwd1pnPT0.jpg)
+![植树03](https://i.loli.net/2020/07/19/5lkwpS8ATChiOtg.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJBdVh0LzFZRFc5OVhrcFkzMnczWnA0bVp2eTN2aC9hcTAya1B6d3BTN0N3PT0.jpg)
+![植树04](https://i.loli.net/2020/07/19/gX6iVhDos7a1tQR.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJBdVh0LzFZRFc5N20zQUhlMzlwMzVtdEVaVHVxU1E4cytyVGJYMkdKN2NnPT0.jpg)
+![植树05](https://i.loli.net/2020/07/19/LJtAslG7Yzx1U8e.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJBdVh0LzFZRFc5L2w5OHlXTUhHYTU3WmRtaXJ2MlI2cmZHOW92OGx3YTd3PT0.jpg)
+![植树06](https://i.loli.net/2020/07/19/iIqKYgATU1XRuEp.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJBdVh0LzFZRFc5LzlQcm5RRWN0UWtnSnlFSUJmdGdXclRpT2Q3QU9yTFRBPT0.jpg)
+![植树07](https://i.loli.net/2020/07/19/e9OoqvuZAED8FMR.jpg)
