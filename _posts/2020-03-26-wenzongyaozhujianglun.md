@@ -1,18 +1,18 @@
 ---
 layout: post
-title: 
+title: 汉煎鉴婊学
 date: 2020-03-26 13:21:09
+author: 溫宗堯
 tags: [蔣汪]
 
 ---
-汉煎鉴婊学：
 
 我吃喝嫖赌卖身卖国给🇯🇵人办事，但我知道我是好女孩
 
 只有汪先生知道谁是真正的婊子😒
 
 
-![图片](./img/YnZvamxBaTlBYW92YXlDaCtZcHBEWitrTmRhaEhNMHNnNi84a0wyTjNDTitrSzNlbG1HUXhRPT0.jpg)
+![誅蔣論](https://i.loli.net/2020/07/19/otC3SlDueiawTg5.jpg)
 
 
 ---
