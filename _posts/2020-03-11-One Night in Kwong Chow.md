@@ -3,7 +3,7 @@ layout: post
 title: 【蔣汪】廣州一夜
 date: 1926-03-20 23:42:08
 author: 回汐
-tags: [填海補天,汪兆銘,蔣中正,ROC同人]
+tags: [填海補天,ROC同人]
 comments: true
 
 ---
