@@ -21,7 +21,9 @@ tags: [汪兆銘,吳稚暉]
 
 哭唧唧  
 
-P.s.這段廣播演講的錄音： <video src="https://github.com/kanransya/nami-jetcoaster/raw/master/videos/%E5%B9%BF%E5%B7%9E%E5%B9%BF%E6%92%AD%E5%BD%95%E9%9F%B3.mp4" width="800px" height="600px" controls="controls"></video>
+P.s.這段廣播演講的錄音： 
+
+<video src="https://github.com/kanransya/nami-jetcoaster/raw/master/videos/%E5%B9%BF%E5%B7%9E%E5%B9%BF%E6%92%AD%E5%BD%95%E9%9F%B3.mp4" width="800px" height="600px" controls="controls"></video>
 
 1:12開始 粵語真好聽 我又被蠱了（
 
