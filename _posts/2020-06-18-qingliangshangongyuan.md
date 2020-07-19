@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 
+title: 追妻火葬場（？）
 date: 2020-06-18 22:34:04
-tags: [不用很累很麻煩瞎jb走也可以巡禮到聖地,汪兆銘,汪季新]
+author: 回汐
+tags: [汪兆銘,信仰充值]
 
----
-打卡 傳說中的清涼山  
-
-宛轉蛾眉馬前死的下一句是 花鈿委地無人收啊☹
+---  
+清涼山打卡
 
 > 《掃葉集》序  
 > 
@@ -32,25 +31,25 @@ tags: [不用很累很麻煩瞎jb走也可以巡禮到聖地,汪兆銘,汪季新
 > 還當掃落葉，共煮一尊酒。
 
 
-![图片](./img/YnZvamxBaTlBYXJlV3dqUE1NQWxZMDlkdnRtc2U4UDRFYmNEbE1qemluQnFVdGg4MHVHUGpBPT0.jpg)
+![清凉山公园01](https://i.imgur.com/8h3o2kJ.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJlV3dqUE1NQWxZMFArR0FCQ3RpUko1dzRkQWZLK2V1Qk9nT2V0WDZNdzJnPT0.jpg)
+![清凉山公园02](https://i.imgur.com/kSTWGLr.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJlV3dqUE1NQWxZeEROdGhTOWdFVmJjZFpFa3JWNHFacHNSNk0rYkRuYlZRPT0.jpg)
+![清凉山公园03](https://i.imgur.com/hiMepSN.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJlV3dqUE1NQWxZMExrRWhzWCtqRncxeFEzN29YclBlYitVeDhVYlV1QkdRPT0.jpg)
+![清凉山公园04](https://i.imgur.com/YPSs60C.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJlV3dqUE1NQWxZMFFNVytYdzcyem4wVWtNTjlOOVZVRW52bFhNZE1Eait3PT0.jpg)
+![清凉山公园05](https://i.imgur.com/Ddo51G1.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJlV3dqUE1NQWxZNk1wbG1ybnFFSG10UnhBMHVKRDZqVEtlb2xwNzk0RFh3PT0.jpg)
+![清凉山公园06](https://i.imgur.com/jjIEVba.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJlV3dqUE1NQWxZeUNDUzBHcnNGWkVhWEp3WmVsalhUaTJMd2FvQXVzWit3PT0.jpg)
+![清凉山公园07](https://i.imgur.com/wNBRWWZ.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJlV3dqUE1NQWxZNzNIdDR1V1FLL1VzcVA2WDlUMzZJbWszbS8zZ3g2dmVRPT0.jpg)
+![清凉山公园08](https://i.imgur.com/klGHV8r.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJlV3dqUE1NQWxZeWFUU1hrdzN2bVVaVWZCeStqcGlwSTExZmRCZDFPOS9nPT0.jpg)
+![清凉山公园09](https://i.imgur.com/FnfjAoO.jpg)
 
-![图片](./img/YnZvamxBaTlBYXJlV3dqUE1NQWxZN3RvVlVTM0tod0x2cS9PWXhVNWZ4YVhnb0Y4RWZaY1F3PT0.jpg)
+![清凉山公园10](https://i.imgur.com/Wtq1UUI.jpg)
 
 
 ---
