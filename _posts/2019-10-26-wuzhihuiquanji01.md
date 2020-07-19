@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 
+title: 吳某蕩婦羞辱（？）系列第1彈……两篇
 date: 2019-10-26 01:38:41
+author: 吳稚暉
 tags: [汪兆銘,吳稚暉]
 
 ---
 來源:《吳稚暉全集》第七卷，九州出版社，2013年， P516-524。
 
-吳某蕩婦羞辱（？）系列第1彈……两篇
 
 年份見圖
 
@@ -17,13 +17,22 @@ tags: [汪兆銘,吳稚暉]
 
 好了 我終於看到完整版了
 
-下次放蕊生的溫柔泥塑
 
-哭唧唧  
+![吴稚晖01](https://i.loli.net/2020/07/19/Mh4HTZAKxoWE61w.jpg)
+
+![吴稚晖02](https://imglf5.nosdn0.126.net/img/YnZvamxBaTlBYW81RXdrQVdZSUZoRXdXSUNHWjFpV05FRXJ4amh4TnZSVXB4ZnRDTFJPRk1nPT0.jpg)
+
+![吴稚晖03](https://imglf4.nosdn0.126.net/img/YnZvamxBaTlBYW81RXdrQVdZSUZoQ1YxZWdxa2d3dWJvYzZOc0NqS1RDL3YxekZDbnFWV0dRPT0.jpg)
+
+![吴稚晖04](https://imglf4.nosdn0.126.net/img/YnZvamxBaTlBYW81RXdrQVdZSUZoTlh3Y2I3R3ZmV2M4ZEdvREtTc3IzQzY0SnhOT3orZElnPT0.jpg)
+
+![吴稚晖05](https://imglf3.nosdn0.126.net/img/YnZvamxBaTlBYW81RXdrQVdZSUZoTTc1UHhrMU1VRkErMmZBRVEreXh4UVYzbXNhRnZFamZBPT0.jpg)
+
+* * *
 
 P.s.這段廣播演講的錄音： 
 
-<video src="https://github.com/kanransya/nami-jetcoaster/raw/master/videos/%E5%B9%BF%E5%B7%9E%E5%B9%BF%E6%92%AD%E5%BD%95%E9%9F%B3.mp4" width="800px" height="600px" controls="controls"></video>
+<video src="https://github.com/kanransya/nami-jetcoaster/raw/master/videos/Guangzhou%20radio01.mp4" width="400px" height="300px" controls="controls"></video>
 
 1:12開始 粵語真好聽 我又被蠱了（
 
@@ -31,13 +40,3 @@ P.s.這段廣播演講的錄音：
 
 （可這個通稿我始終沒有找到錘）
 
-
-![图片](./img/YnZvamxBaTlBYW81RXdrQVdZSUZoRzhXSTZHMjRqWU5sUDdLMS9aS1gydmZ5dFBFT1Z4UTJRPT0.jpg)
-
-![图片](./img/YnZvamxBaTlBYW81RXdrQVdZSUZoRXdXSUNHWjFpV05FRXJ4amh4TnZSVXB4ZnRDTFJPRk1nPT0.jpg)
-
-![图片](./img/YnZvamxBaTlBYW81RXdrQVdZSUZoQ1YxZWdxa2d3dWJvYzZOc0NqS1RDL3YxekZDbnFWV0dRPT0.jpg)
-
-![图片](./img/YnZvamxBaTlBYW81RXdrQVdZSUZoTlh3Y2I3R3ZmV2M4ZEdvREtTc3IzQzY0SnhOT3orZElnPT0.jpg)
-
-![图片](./img/YnZvamxBaTlBYW81RXdrQVdZSUZoTTc1UHhrMU1VRkErMmZBRVEreXh4UVYzbXNhRnZFamZBPT0.jpg)
