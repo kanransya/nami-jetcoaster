@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 烤馒头甄学现场一例
-date: 2019-12-01 23:34:37
-tags: [汪季新,汪兆銘,蔣志清,蔣汪,民國同人,歷史同人]
+date: 1938-03-31 23:34:37
+author: 回汐
+tags: [汪兆銘,蔣中正,ROC資料]
 
 ---
-![图片](./img/YnZvamxBaTlBYXJKTjdUR1lGeldhaXFWaUVtdkhodFc2cVowTXFyb2RGYk54U3ZlaVVUcW5BPT0.jpg?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![禮堂](https://i.loli.net/2020/07/19/65qPudyia72EUzv.jpg)  
 
 1938年3月，武昌，你校山顶礼堂（也是饭堂），kmt临时全国代表大会
 
@@ -13,8 +14,8 @@ tags: [汪季新,汪兆銘,蔣志清,蔣汪,民國同人,歷史同人]
 
 代表怨声载道叫苦不迭
 
-![](http://imglf4.nosdn.127.net/img/YnZvamxBaTlBYXJKTjdUR1lGeldhdHFhK0FZZ0xIQ3dFVmRtdEtLck5JQ0lxN1pSNUNvZEFRPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
-![](http://imglf3.nosdn.127.net/img/YnZvamxBaTlBYXJKTjdUR1lGeldhcmdPT2ZNRVd4MDFodHlydTBVWXJQNzdTcmJ0VUY0VnRnPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![齐世英01](http://imglf4.nosdn.127.net/img/YnZvamxBaTlBYXJKTjdUR1lGeldhdHFhK0FZZ0xIQ3dFVmRtdEtLck5JQ0lxN1pSNUNvZEFRPT0.png)  
+![齐世英02](http://imglf3.nosdn.127.net/img/YnZvamxBaTlBYXJKTjdUR1lGeldhcmdPT2ZNRVd4MDFodHlydTBVWXJQNzdTcmJ0VUY0VnRnPT0.png)  
 
 “起来一半”
 
@@ -40,9 +41,11 @@ tags: [汪季新,汪兆銘,蔣志清,蔣汪,民國同人,歷史同人]
 
 已经1938了！！不要再扯头花了！！
 
-![](http://imglf4.nosdn.127.net/img/YnZvamxBaTlBYXJKTjdUR1lGeldhbVJGOFV1bkVyWVdXWDY0eVlsZG1KdjhnbHRIdkkyTVRRPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![大家都是姐妹](http://imglf4.nosdn.127.net/img/YnZvamxBaTlBYXJKTjdUR1lGeldhbVJGOFV1bkVyWVdXWDY0eVlsZG1KdjhnbHRIdkkyTVRRPT0.png)  
 
 以上都是我瞎编的
+
+* * *
 
 参考：
 
