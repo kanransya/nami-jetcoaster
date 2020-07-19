@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 
+title: 武漢國民政府舊址-1
 date: 2019-10-27 21:58:02
-tags: [汪季新,汪兆銘,蔣志清,蔣汪,民國同人,歷史同人]
+tags: [汪兆銘,蔣中正,ROC資料,信仰充值]
 
 ---
 上週打卡嘿嘿
@@ -11,26 +11,26 @@ tags: [汪季新,汪兆銘,蔣志清,蔣汪,民國同人,歷史同人]
 
 後來的地點在武昌督軍署（後來的武昌造船廠），以及漢口總商會，但是好像只有南洋大樓弄成了舊址觀光點，over
 
-LOF發圖好麻煩惹，下篇再說槽點
+下篇再說槽點
 
 p.s.我發現小汪真的常年拍照不看鏡頭的……
 
 
-![图片](./img/YnZvamxBaTlBYXBKYlZSWURBeGNqNC9aVWFsS3BVMlVpUmJqb01FaDZvdkY4c052Zktkb1N3PT0.jpg)
+![whgf01](https://i.imgur.com/X6IXjiw.jpg)
 
-![图片](./img/YnZvamxBaTlBYXBKYlZSWURBeGNqODBNeXhjYkttbE5CQUwzeGROM2wxbk5zRklPR0FiTWVnPT0.jpg)
+![whgf02](https://i.imgur.com/Vi7PH4Q.jpg)
 
-![图片](./img/YnZvamxBaTlBYXBKYlZSWURBeGNqN01nZE5jMno5UWgzVG9lZDBicm03NVY4cml6QmZtbUJnPT0.jpg)
+![whgf03](https://i.imgur.com/bwBqIdM.jpg)
 
-![图片](./img/YnZvamxBaTlBYXBWdlNJakFnQ2pyNkExQ1EwNlN0bWpwZ1VHYm1aNHVqb3ZOM05laFZOV213PT0.png)
+![whgf04](https://i.imgur.com/nXRZkH6.png)
 
-![图片](./img/YnZvamxBaTlBYXBKYlZSWURBeGNqM0hLenluaUFBQ0VQTmtNSXJTVzJrVG5YMlczV3lKZzRBPT0.jpg)
+![whgf05](https://i.imgur.com/yiFZN6z.jpg)
 
-![图片](./img/YnZvamxBaTlBYXBKYlZSWURBeGNqeWF0b3dFY1ZGalJEQWUzOEtQUGo3dmtOc1h6UlVXWnRBPT0.jpg)
+![whgf06](https://i.imgur.com/UDM5Xoe.jpg)
 
-![图片](./img/YnZvamxBaTlBYXBKYlZSWURBeGNqN2Zqdmc4MklaUTlDWVlrN1BINEtyT2JiZ1MvZ2ZSejlRPT0.jpg)
+![whgf07](https://i.imgur.com/rTREqJ5.jpg)
 
-![图片](./img/YnZvamxBaTlBYXBKYlZSWURBeGNqOXlLcUtJNEh2b2puREUwSDNvWktNV05sVWNwMXFoZFdRPT0.jpg)
+![whgf08](https://i.imgur.com/eC8KM3U.jpg)
 
 
 ---
