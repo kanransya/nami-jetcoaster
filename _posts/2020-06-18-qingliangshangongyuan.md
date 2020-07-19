@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 追妻火葬場（？）
+title: literally火葬場追妻（？）
 date: 2020-06-18 22:34:04
 author: 回汐
 tags: [汪兆銘,信仰充值]
