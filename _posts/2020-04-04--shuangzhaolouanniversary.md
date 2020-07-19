@@ -2,9 +2,9 @@
 layout: post
 title: 金縷曲
 date: 2020-04-04 00:05:48
-author:回汐
+author: 回汐
 tags: [雙照樓,信仰充值]
-comments: true
+comments: ture
 
 ---
 ![金縷曲](https://i.loli.net/2020/07/19/LYju6bmBCyVThnX.jpg)  
