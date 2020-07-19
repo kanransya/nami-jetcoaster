@@ -1,13 +1,15 @@
 ---
 layout: post
-title: 
+title: 綺情樓雜記
 date: 2020-05-17 23:06:07
-tags: [undefined]
+author: 喻血輪
+tags: [汪兆銘,ROC資料]
 
 ---
+
 逛書店看到的綺情樓雜記
 
-九州出版社，2017版
+九州出版社2017版
 
 據說是足本
 
@@ -16,7 +18,7 @@ tags: [undefined]
 p.s我還是第一次看到在他名字後面只寫“詩人”的，太震撼了，一時竟不知是吹了還是乳了。。。
 
 
-![图片](./img/YnZvamxBaTlBYW9INThzbmtQT09YeTU2UUE2eXhMQlNBYm84Yk1zMXNnWVlkc0s1Tm1ZK2JBPT0.jpg)
+![綺情樓雜記01](https://i.imgur.com/rj53jgI.jpg)
 
 
 ---
