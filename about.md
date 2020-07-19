@@ -8,9 +8,9 @@ permalink: /about/
 
 。
 
-[AO3](https://archiveofourown.org/users/KurikaesuShio "KurikaesuShio")
+[AO3](https://archiveofourown.org/users/KurikaesuShio)
 
-[LOFTER](https://allin-1.lofter.com "汐回")
+[LOFTER](https://1qieru1.lofter.com)
 
 Weibo: @Nangijala
 
