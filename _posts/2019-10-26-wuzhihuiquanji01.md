@@ -20,13 +20,13 @@ tags: [汪兆銘,吳稚暉]
 
 ![吴稚晖01](https://i.loli.net/2020/07/19/Mh4HTZAKxoWE61w.jpg)
 
-![吴稚晖02](https://imglf5.nosdn0.126.net/img/YnZvamxBaTlBYW81RXdrQVdZSUZoRXdXSUNHWjFpV05FRXJ4amh4TnZSVXB4ZnRDTFJPRk1nPT0.jpg)
+![吴稚晖02](https://i.loli.net/2020/07/19/EHICsXbGtJRhpOk.jpg)
 
-![吴稚晖03](https://imglf4.nosdn0.126.net/img/YnZvamxBaTlBYW81RXdrQVdZSUZoQ1YxZWdxa2d3dWJvYzZOc0NqS1RDL3YxekZDbnFWV0dRPT0.jpg)
+![吴稚晖03](https://i.loli.net/2020/07/19/RawbCKcPHgrjI2Q.jpg)
 
-![吴稚晖04](https://imglf4.nosdn0.126.net/img/YnZvamxBaTlBYW81RXdrQVdZSUZoTlh3Y2I3R3ZmV2M4ZEdvREtTc3IzQzY0SnhOT3orZElnPT0.jpg)
+![吴稚晖04](https://i.loli.net/2020/07/19/AipbqsuDV6PQYmR.jpg)
 
-![吴稚晖05](https://imglf3.nosdn0.126.net/img/YnZvamxBaTlBYW81RXdrQVdZSUZoTTc1UHhrMU1VRkErMmZBRVEreXh4UVYzbXNhRnZFamZBPT0.jpg)
+![吴稚晖05](https://i.loli.net/2020/07/19/5e9oKf6BvWFTk7c.jpg)
 
 * * *
 
