@@ -16,7 +16,7 @@ Weibo: @Nangijala
 
 友鏈
 
-[一把甘蔗渣](https://kamadhatu.github.io/sanjingjiuhuang)
+[一把甘蔗渣](http://sanjingjiuhuang.net)
 
 * * *
 
