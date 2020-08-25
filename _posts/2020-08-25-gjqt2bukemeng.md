@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【谢衣12】不可梦
+title: 【谢衣1×2】不可梦
 date: 2020-08-25 23:25:54
 author: 回汐
 tags: [鎖二同人,謝衣]
