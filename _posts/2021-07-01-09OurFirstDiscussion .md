@@ -6,7 +6,7 @@ author: 蕭瑜, 回汐
 tags: [長沙散伙人,個人漢化,我與毛一起做乞丐,蕭子昇]
 
 ---
-英文原版多格式电子书下载及阅读地址
+英文原版多格式电子书下载与阅读地址
 
 <https://archive.org/details/maotsetungandiwe000325mbp>
 
