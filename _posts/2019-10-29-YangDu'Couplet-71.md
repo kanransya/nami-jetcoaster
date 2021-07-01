@@ -2,7 +2,8 @@
 layout: post
 title: 楊度的聯
 date: 2019-10-29 22:56:06
-tags: [楊度,袁慰亭,梁啟超,孫逸仙,民國同人,歷史同人]
+author: 蕭瑜
+tags: [楊度,蕭子昇,ROC資料]
 
 ---
 ![图片](./img/YnZvamxBaTlBYXBGVW1UUnFFVXVQL3R0a0FvUzk1RXg5MkNIcVlqempOOGw3eXBXWmFiTVlRPT0.jpg?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
