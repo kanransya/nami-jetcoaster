@@ -10,7 +10,7 @@ permalink: /about/
 
 [LOFTER](https://1qieru1.lofter.com)
 
-Weibo: @Nangijala
+
 
 * * *
 
