@@ -2,7 +2,7 @@
 layout: post
 title: 楊度的聯
 date: 2019-10-29 22:56:06
-author: 蕭瑜
+author: 蕭瑜, 楊度
 tags: [楊度,蕭子昇,ROC資料]
 
 ---
