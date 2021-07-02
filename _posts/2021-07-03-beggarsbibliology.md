@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MAO TSE-TUNG AND I WERE BEGGARS 一个不完全的版本学探讨
+title: MAO TSE-TUNG AND I WERE BEGGARS 一个不完全的汉译版本学探讨
 date: 2021-07-03
 author: 回汐
 tags: [長沙散伙人,個人漢化,我與毛一起做乞丐,蕭子昇]
