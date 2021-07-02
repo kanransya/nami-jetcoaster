@@ -43,7 +43,7 @@ tags: [長沙散伙人,個人漢化,我與毛一起做乞丐,蕭子昇]
 
 内容：一个内地版的阉割翻译，独立于香港李中夏译本，无翻译腔，信达雅，很说人话，但敏感处直接删减，合并了一些章节，且未保留作者的手绘插图。此外细节地名、人名考证不够详实，序言有史实性错误（在所谓盗宝案已经昭雪之后作为一个官方出版社还写出这种东西我很难原谅）。
 
-pdf：<https://pan.baidu.com/s/11acDaN-UhClpNXzlu84lHg> 提取码：QYWY
+pdf：<https://pan.baidu.com/s/11acDaN-UhClpNXzlu84lHg> 提取码：QYWY **下载后自己加上后缀【.pdf】**
 
 * * *
 
@@ -53,7 +53,7 @@ pdf：<https://pan.baidu.com/s/11acDaN-UhClpNXzlu84lHg> 提取码：QYWY
 
 内容：采用李中夏版翻译做底本，然后把敏感处刪得毛都不剩，不敏感处也有部分删节（无法理解），唯一的优点是是保留了原作插图。
 
-pdf：<https://pan.baidu.com/s/1V_FmrM_othHDno48HT3XsQ> 提取码：QYWY
+pdf：<https://pan.baidu.com/s/1V_FmrM_othHDno48HT3XsQ> 提取码：QYWY **下载后自己加上后缀【.pdf】**
 
 * * *
 
@@ -75,4 +75,4 @@ pdf：<https://pan.baidu.com/s/1V_FmrM_othHDno48HT3XsQ> 提取码：QYWY
 
 <https://surface.syr.edu/books/8>
 
-<https://pan.baidu.com/s/11WQtggkZ5GwhkaWc97uQSw> 提取码：QYWY
+<https://pan.baidu.com/s/11WQtggkZ5GwhkaWc97uQSw> 提取码：QYWY **下载后自己加上后缀【.pdf】**
