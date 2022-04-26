@@ -8,7 +8,7 @@ permalink: /about/
 
 [AO3](https://archiveofourown.org/users/KurikaesuShio)
 
-[LOFTER](https://1qieru1.lofter.com)
+[LOFTER](https://meihuayousuxin.lofter.com)
 
 
 
