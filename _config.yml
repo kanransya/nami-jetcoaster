@@ -40,7 +40,7 @@ navigation:
     url: https://kanransya.github.io/nami-jetcoaster/tags
 
 # 每页的文章数
-paginate: 8
+paginate: 10
 
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
@@ -60,7 +60,7 @@ footer-links:
   rss: #xxxxxxx
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
-  twitter: shio_kurikaesu 
+  twitter: # shio_kurikaesu 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
