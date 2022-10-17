@@ -18,6 +18,8 @@ permalink: /about/
 
 [一把甘蔗渣](http://sanjingjiuhuang.net)
 
+[灭迹沦一尉](https://hylasnymphs.github.io/miejilunyiwei/)
+
 * * *
 
 世上難逢乾淨土，天心終見重輪月。
