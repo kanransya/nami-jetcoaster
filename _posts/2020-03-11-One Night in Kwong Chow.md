@@ -33,7 +33,7 @@ ao3：[如果你想給我一個kudos](https://archiveofourown.org/works/23107045
 
 🚢
 
-國府主席是個omega，這倒沒有違背先例。
+<font color=#f8f9fa>國府主席是個omega，這倒沒有違背先例。</font>
 
 因為在此之前根本就沒有國府主席。
 
