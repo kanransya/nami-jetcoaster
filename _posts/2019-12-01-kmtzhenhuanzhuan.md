@@ -14,8 +14,8 @@ tags: [汪兆銘,蔣中正,ROC資料]
 
 代表怨声载道叫苦不迭
 
-![齐世英01](http://imglf4.nosdn.127.net/img/YnZvamxBaTlBYXJKTjdUR1lGeldhdHFhK0FZZ0xIQ3dFVmRtdEtLck5JQ0lxN1pSNUNvZEFRPT0.png)  
-![齐世英02](http://imglf3.nosdn.127.net/img/YnZvamxBaTlBYXJKTjdUR1lGeldhcmdPT2ZNRVd4MDFodHlydTBVWXJQNzdTcmJ0VUY0VnRnPT0.png)  
+![齐世英01](https://s2.loli.net/2023/05/03/Cjr6qMZen4SvbGy.png)  
+![齐世英02](https://s2.loli.net/2023/05/03/6eYBxKOXQpq1jrv.png)  
 
 “起来一半”
 
@@ -41,7 +41,7 @@ tags: [汪兆銘,蔣中正,ROC資料]
 
 已经1938了！！不要再扯头花了！！
 
-![大家都是姐妹](http://imglf4.nosdn.127.net/img/YnZvamxBaTlBYXJKTjdUR1lGeldhbVJGOFV1bkVyWVdXWDY0eVlsZG1KdjhnbHRIdkkyTVRRPT0.png)  
+![大家都是姐妹](https://s2.loli.net/2023/05/03/kLVEbzJ6FBuhtml.png)  
 
 以上都是我瞎编的
 
