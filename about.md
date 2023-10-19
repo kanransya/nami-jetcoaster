@@ -20,6 +20,8 @@ permalink: /about/
 
 [灭迹沦一尉](https://hylasnymphs.github.io/miejilunyiwei/)
 
+[雙照樓頭月色新](https://silvertabbycat.github.io/WangJingwei/)
+
 * * *
 
 世上難逢乾淨土，天心終見重輪月。
