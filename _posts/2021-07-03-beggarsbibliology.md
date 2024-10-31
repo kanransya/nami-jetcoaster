@@ -46,7 +46,7 @@ tags: [長沙散伙人,個人漢化,我與毛一起做乞丐,蕭子昇]
 
 内容：目测是哪位活菩萨照着台湾李白出版社版手动录入的，摘录的是原书第11章~第41章，缺前10章和最后一章，但已摘录的部分没有再做删减。缺点是手打错字多影响阅读体验。
 
-<https://pan.baidu.com/s/1JT-Nzvn9uF6LmDwAGnVqlg> 提取码：QYWY **下载后自己加上后缀【.epub】**
+<https://pan.baidu.com/s/1EELMWcSP6bst0IsUKmuBxg> 提取码：QYWY **下载后自己加上后缀【.epub】**
 
 * * *
 
